@@ -31,7 +31,7 @@ PBH-BTN 团队是由来自五湖四海各行各业的热爱 BitTorrent 技术的
 
 PeerBanHelper 作为一个注重隐私的开源项目，绝不会滥用自己的权限，收集用户额外信息，目前 PeerBanHelper 获取并传输的所有数据如下：
 
-默认安装下的 PeerBanHelper 不向任何人发送任何数据。
+> 当前版本默认安装下的 PeerBanHelper 不向任何人发送任何数据。
 
 ### 例外情况
 
