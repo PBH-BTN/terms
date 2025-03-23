@@ -1,3 +1,5 @@
+> The current language version of this document is translated by DeepSeek-R1. If you have any questions or disputes regarding this document, the [zh-CN](https://github.com/PBH-BTN/terms/blob/master/peerbanhelper-privacy-en-US.md) version shall prevail.
+
 ## Introduction
 
 Sparkle BTN is a service that allows users to share, retrieve, and query BitTorrent network activity data. All features are designed to protect our users' BT clients from malicious actors on the internet. By using the Sparkle BTN service (hereinafter referred to as "BTN" or "Sparkle"), you agree to read and comply with this agreement. Please read carefully and fully understand all clauses, especially those regarding disclaimers or limitations of liability, as well as separate agreements for specific services, and decide whether to accept them or not.
