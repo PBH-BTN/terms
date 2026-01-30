@@ -34,7 +34,7 @@ Protecting user privacy is a fundamental principle of PeerBanHelper. PeerBanHelp
 As a privacy-focused open-source project, PeerBanHelper will never abuse its permissions to collect extra user information. We adhere to the principles of transparency, openness, controllability, and legitimate use in disclosing how we handle and use the information we collect.
 Currently, all data acquired and transmitted by PeerBanHelper is as follows:
 
-*   Your anonymous installation identifier, PeerBanHelper's version number, and other basic information, as well as basic information like your operating system type and version number.
+*   Your anonymous installation identifier, PeerBanHelper's version number, and basic system information such as your operating system type and version number.
     *   We use this data to determine how many users are currently using our program and their version distribution. We also use this data to understand the operating system types, instruction sets, and version distributions used by our users, so we can perform targeted optimizations during development.
 *   Error information and context collected when the program crashes.
     *   We collect and use this data to analyze the causes of program failures and implement fixes to improve program stability.
