@@ -41,7 +41,7 @@ Currently, all data acquired and transmitted by PeerBanHelper is as follows:
 *   Your actions when browsing the PeerBanHelper WebUI, such as visiting different functional pages and the time spent on each page.
     *   We use this data to understand which features on the WebUI are used more frequently, in order to improve the user experience.
 
-All collected data is anonymous and does not contain your personal privacy information. We also promise not to sell, rent, or share any collected information with any third party. All data will be used solely for the development and improvement of the PeerBanHelper project and can only be accessed by authorized members of PBH-BTN.
+All collected data is anonymous and does not contain your personal information. We also promise not to sell, rent, or share any collected information with any third party. All data will be used solely for the development and improvement of the PeerBanHelper project and can only be accessed by authorized members of PBH-BTN.
 
 ### Opting Out of Information Collection
 
