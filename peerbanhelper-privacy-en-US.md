@@ -46,7 +46,7 @@ All collected data is anonymous and does not contain your personal information. 
 ### Opting Out of Information Collection
 
 To opt out of information collection, please visit the WebUI of your PeerBanHelper installation, go to "Settings -> Basic Settings", turn off the "Enable Telemetry" switch, save, and refresh the page.
-After opting out, none of your information will be collected. If you need to delete stored data, please contact us using the contact information below.
+After opting out, none of your information will be collected except the Exceptions that describe below. If you need to delete stored data, please contact us using the contact information below.
 
 ### Exceptions
 
