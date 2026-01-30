@@ -31,9 +31,22 @@ Protecting user privacy is a fundamental principle of PeerBanHelper. PeerBanHelp
 
 ## Information We Collect
 
-As an open-source project focused on privacy, PeerBanHelper will never abuse its privileges to collect additional user information. Currently, PeerBanHelper collects and transmits the following data:
+As a privacy-focused open-source project, PeerBanHelper will never abuse its permissions to collect extra user information. We adhere to the principles of transparency, openness, controllability, and legitimate use in disclosing how we handle and use the information we collect.
+Currently, all data acquired and transmitted by PeerBanHelper is as follows:
 
-> The default installation of the current version of PeerBanHelper does not send any data to anyone.
+*   Your anonymous installation identifier, PeerBanHelper's version number, and other basic information, as well as basic information like your operating system type and version number.
+    *   We use this data to determine how many users are currently using our program and their version distribution. We also use this data to understand the operating system types, instruction sets, and version distributions used by our users, so we can perform targeted optimizations during development.
+*   Error information and context collected when the program crashes.
+    *   We collect and use this data to analyze the causes of program failures and implement fixes to improve program stability.
+*   Your actions when browsing the PeerBanHelper WebUI, such as visiting different functional pages and the time spent on each page.
+    *   We use this data to understand which features on the WebUI are used more frequently, in order to improve the user experience.
+
+All collected data is anonymous and does not contain your personal privacy information. We also promise not to sell, rent, or share any collected information with any third party. All data will be used solely for the development and improvement of the PeerBanHelper project and can only be accessed by authorized members of PBH-BTN.
+
+### Opting Out of Information Collection
+
+To opt out of information collection, please visit the WebUI of your PeerBanHelper installation, go to "Settings -> Basic Settings", turn off the "Enable Telemetry" switch, save, and refresh the page.
+After opting out, none of your information will be collected. If you need to delete stored data, please contact us using the contact information below.
 
 ### Exceptions
 
